@@ -1,6 +1,6 @@
 ## Hi~ I'm Gyutaek Kim 👋
 
-### 공사중입니다...
+### 공사중...
 <!--
 **eropick/eropick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
